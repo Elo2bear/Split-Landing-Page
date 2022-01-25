@@ -1,1 +1,2 @@
 # Split-Landing-Page
+My passion for console gaming inspired me to make this simple split landing page. Mostly centered on HTML and CSS. with very basic JS. The page showcases a split between the new Xbox and the new PS5, which one to choose. It was a nice practise project to showcase a hobby.![Split landing page](https://user-images.githubusercontent.com/94161006/150924133-20e92830-92af-4d1e-aa7d-0963644cf6fd.jpg)
